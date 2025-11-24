@@ -12,7 +12,7 @@
 https://www.bilibili.com/video/BV1k6yYBgE4d/?spm_id_from=333.1387.search.video_card.click&vd_source=e51e8ec2fb03314ad9fa517492a2ce94
 #### 二、获取地址:
 
-#### 项目获取地址：https://www.666bear.com/12542.html
+#### 项目获取地址（点击链接就可以获取）：https://www.666bear.com/12542.html
 
 #### 接网站建设、小程序、H5、APP、各种系统、样式修改等
 
